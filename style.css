@@ -391,14 +391,7 @@ main .hero-container .para {
     font-size: 0.8vw;
 }
 
-/* .next-previous-container {
-    position: absolute;
-    top: 50%;
-    right: -3%;
-    transform: translateY(-50%);
-    font-size: 3rem;
-    cursor: pointer;
-} */
+
 
 .carousel-navigation{
     position: absolute;
